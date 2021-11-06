@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name LTC4020IUHFPBF)(type Legacy)(uri /Users/pakue/Dropbox/Projekte/LTC4020_charger_demo/Parts/LTC4020IUHFPBF.lib)(options "")(descr ""))
+  (lib (name CNC_Control_Panel-rescue)(type Legacy)(uri ${KIPRJMOD}/CNC_Control_Panel-rescue.lib)(options "")(descr ""))
+)
